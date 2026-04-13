@@ -1,0 +1,2 @@
+xmin,alpha,sigma_alpha,lognormal_mu,lognormal_sigma,exponential_lambda,R_powerlaw_lognormal,p_powerlaw_lognormal,R_powerlaw_exponential,p_powerlaw_exponential,winner_vs_lognormal,winner_vs_exponential
+3.0,1.538920851945318,0.006906971528347855,-10.337928020194404,5.228186669048943,0.005422104017951691,-4.969836727653966,6.700930393049072e-07,22.36906116987792,7.877713831694917e-111,Lognormal,Power law
