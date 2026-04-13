@@ -1,0 +1,31 @@
+Cuisine,Nutrient,mₙ,sₙ,translated_mean,translated_std,fit_σ
+Italian,Carbohydrate,3.9112,1.7029,0.0000,1.7029,1.7028
+Mexican,Carbohydrate,3.9955,1.5019,-0.0000,1.5019,1.5018
+South American,Carbohydrate,4.0806,1.5066,-0.0000,1.5066,1.5065
+Canadian,Carbohydrate,4.2529,1.6151,-0.0000,1.6151,1.6150
+Indian Subcontinent,Carbohydrate,4.3425,1.9093,0.0000,1.9093,1.9091
+French,Carbohydrate,4.1408,1.8173,0.0000,1.8173,1.8172
+Chinese and Mongolian,Carbohydrate,4.2182,1.5318,0.0000,1.5318,1.5317
+Australian,Carbohydrate,4.7330,2.3656,0.0000,2.3656,2.3653
+US,Carbohydrate,4.2718,1.5271,0.0000,1.5271,1.5269
+UK,Carbohydrate,4.6244,2.1241,-0.0000,2.1241,2.1239
+Italian,Protein,3.8029,1.8118,0.0000,1.8118,1.8117
+Mexican,Protein,3.5233,1.8492,-0.0000,1.8492,1.8491
+South American,Protein,4.4286,1.7268,0.0000,1.7268,1.7266
+Canadian,Protein,3.2141,1.7130,0.0000,1.7130,1.7128
+Indian Subcontinent,Protein,3.4418,2.1958,-0.0000,2.1958,2.1956
+French,Protein,3.5842,1.7812,-0.0000,1.7812,1.7811
+Chinese and Mongolian,Protein,3.8246,1.6955,0.0000,1.6955,1.6954
+Australian,Protein,4.2281,2.5532,-0.0000,2.5532,2.5529
+US,Protein,3.6554,1.7158,-0.0000,1.7158,1.7156
+UK,Protein,3.7942,2.0308,-0.0000,2.0308,2.0306
+Italian,Fat,3.7171,1.8986,-0.0000,1.8986,1.8986
+Mexican,Fat,3.1983,2.0489,0.0000,2.0489,2.0488
+South American,Fat,3.8051,1.7209,0.0000,1.7209,1.7208
+Canadian,Fat,3.3945,1.9752,-0.0000,1.9752,1.9751
+Indian Subcontinent,Fat,3.6083,2.1641,-0.0000,2.1641,2.1639
+French,Fat,3.8570,1.8715,-0.0000,1.8715,1.8713
+Chinese and Mongolian,Fat,3.6852,1.7839,-0.0000,1.7839,1.7837
+Australian,Fat,4.3595,2.6525,0.0000,2.6525,2.6522
+US,Fat,3.8156,1.8043,0.0000,1.8043,1.8041
+UK,Fat,4.0083,2.2670,0.0000,2.2670,2.2667

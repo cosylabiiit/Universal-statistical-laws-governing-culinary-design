@@ -1,0 +1,31 @@
+Cuisine,Nutrient,μₙ (g),skₙ
+Italian,Carbohydrate,568.9482,0.0737
+Italian,Protein,341.5994,-0.5478
+Italian,Fat,276.7326,-0.9662
+Mexican,Carbohydrate,227.9156,-0.3829
+Mexican,Protein,183.4599,-0.7636
+Mexican,Fat,128.8437,-1.0597
+South American,Carbohydrate,307.7644,-0.2619
+South American,Protein,927.5037,-0.4034
+South American,Fat,367.2719,-0.6305
+Canadian,Carbohydrate,269.6105,-0.5507
+Canadian,Protein,106.8537,-0.7179
+Canadian,Fat,180.0283,-1.0619
+Indian Subcontinent,Carbohydrate,1368.4594,0.6300
+Indian Subcontinent,Protein,900.3124,0.3868
+Indian Subcontinent,Fat,662.7352,-0.1564
+French,Carbohydrate,640.7972,-0.1028
+French,Protein,226.6726,-0.5742
+French,Fat,308.2793,-1.0921
+Chinese and Mongolian,Carbohydrate,264.0009,-0.2120
+Chinese and Mongolian,Protein,453.0530,-0.2704
+Chinese and Mongolian,Fat,424.0348,-0.5356
+Australian,Carbohydrate,2180.6818,0.2258
+Australian,Protein,1610.8680,-0.0352
+Australian,Fat,1534.7343,-0.3201
+US,Carbohydrate,168.8376,-0.7151
+US,Protein,106.7886,-1.0315
+US,Fat,122.7211,-1.5677
+UK,Carbohydrate,1661.1027,0.1821
+UK,Protein,742.2904,0.0065
+UK,Fat,909.3751,-0.5360

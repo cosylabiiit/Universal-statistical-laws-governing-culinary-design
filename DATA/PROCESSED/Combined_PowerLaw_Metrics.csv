@@ -1,0 +1,11 @@
+Cuisine,Slope,Intercept,R²
+Italian,1.2778,0.5526,0.9626
+Mexican,0.8036,3.4361,0.9995
+South American,0.7332,3.7793,0.9993
+Canadian,1.2364,1.2727,0.7200
+Indian Subcontinent,0.8277,3.0557,1.0000
+French,1.0099,1.9740,0.9986
+Chinese and Mongolian,1.5714,-1.2818,0.9508
+Australian,1.1573,0.3785,0.9938
+US,0.1569,4.6935,0.0341
+UK,0.4177,5.9805,0.6778

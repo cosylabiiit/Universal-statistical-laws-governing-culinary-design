@@ -1,0 +1,456 @@
+Recipe_id,Region,Sub_region,Continent,"Carbohydrate, by difference (g)",Energy (kcal),Protein (g),Total lipid (fat) (g),cuisine
+92701,Central American,Honduran,Latin American,,,,,Central American
+92702,Central American,Honduran,Latin American,602.1337,4601.1383,104.8050,215.5194,Central American
+92703,Central American,Honduran,Latin American,33.6821,140.4599,3.3772,1.0876,Central American
+92704,Central American,Honduran,Latin American,620.9480,3243.9730,121.0821,33.7261,Central American
+92705,Central American,Honduran,Latin American,22.7144,375.9550,29.6178,19.4698,Central American
+92706,Central American,Honduran,Latin American,163.6125,1748.9055,198.0066,42.6189,Central American
+92707,Central American,Honduran,Latin American,199.0032,1080.4379,68.0766,4.7299,Central American
+92708,Central American,Honduran,Latin American,1.2502,6.6625,0.2085,0.1040,Central American
+92709,Central American,Honduran,Latin American,466.6021,3151.6551,112.6914,96.0807,Central American
+92710,Central American,Honduran,Latin American,599.4248,5992.4549,443.7968,210.2858,Central American
+92711,Central American,Honduran,Latin American,234.9299,1425.4870,8.6511,58.6862,Central American
+92712,Central American,Honduran,Latin American,114.5481,2223.3844,28.5182,199.5852,Central American
+92713,Central American,Honduran,Latin American,501.8372,3084.2040,47.7460,100.0646,Central American
+92714,Central American,Honduran,Latin American,0.0000,0.0000,0.0000,0.0000,Central American
+92715,Central American,Honduran,Latin American,527.1875,2769.0620,36.2940,59.6932,Central American
+92716,Central American,Honduran,Latin American,47.7721,16682.3820,382.9540,1660.9698,Central American
+92717,Central American,Honduran,Latin American,215.7980,836.0000,0.2640,0.0000,Central American
+92718,Central American,Honduran,Latin American,186.4887,970.2129,11.9892,29.4072,Central American
+92719,Central American,Honduran,Latin American,17.9904,217.0290,6.7537,14.5967,Central American
+92720,Central American,Honduran,Latin American,62.9297,549.3128,18.3112,31.0039,Central American
+92721,Central American,Honduran,Latin American,63.9394,1482.9780,62.9052,113.5342,Central American
+92722,Central American,Honduran,Latin American,178.8991,1429.9330,55.8606,57.3415,Central American
+92723,Central American,Honduran,Latin American,32.9778,688.3100,5.4765,60.5080,Central American
+92724,Central American,Honduran,Latin American,58.2000,1691.4037,8.8869,162.6131,Central American
+92725,Central American,Honduran,Latin American,19.1673,251.0000,16.9292,15.7793,Central American
+92726,Central American,Honduran,Latin American,112.5709,2343.4960,29.6934,214.6419,Central American
+92727,Central American,Honduran,Latin American,206.0730,2429.7146,126.2969,124.5179,Central American
+92728,Central American,Honduran,Latin American,199.8318,1197.3550,35.6490,33.4002,Central American
+92729,Central American,Costa Rican,Latin American,2.5161,814.9260,179.6757,4.6197,Central American
+92731,Central American,Costa Rican,Latin American,496.9516,3424.9925,212.7587,68.4238,Central American
+92732,Central American,Costa Rican,Latin American,1068.0301,5921.4400,92.8619,134.9650,Central American
+92733,Central American,Costa Rican,Latin American,7.0693,99.9194,0.4730,9.1584,Central American
+92734,Central American,Costa Rican,Latin American,700.0334,3663.3290,125.5860,38.1077,Central American
+92735,Central American,Costa Rican,Latin American,71.0589,799.1755,6.6615,56.2323,Central American
+92736,Central American,Costa Rican,Latin American,262.9769,1508.8389,59.0676,24.1652,Central American
+92737,Central American,Costa Rican,Latin American,13.0739,239.5875,18.3364,12.8705,Central American
+92738,Central American,Costa Rican,Latin American,267.3688,3081.6500,124.3032,171.0099,Central American
+92739,Central American,Costa Rican,Latin American,88.5486,1121.4306,22.4817,82.8770,Central American
+92740,Central American,Costa Rican,Latin American,49.0542,470.8079,11.7730,29.8027,Central American
+92741,Central American,Costa Rican,Latin American,5.8571,376.6893,0.3394,41.1000,Central American
+92742,Central American,Costa Rican,Latin American,0.0000,0.0000,0.0000,0.0000,Central American
+92743,Central American,Costa Rican,Latin American,6.1312,150.0000,0.5952,14.1536,Central American
+92744,Central American,Costa Rican,Latin American,257.8537,1130.6360,19.9510,3.1213,Central American
+92745,Central American,Costa Rican,Latin American,228.3324,1459.6800,9.3080,70.6492,Central American
+92746,Central American,Costa Rican,Latin American,391.5372,4367.7157,179.3093,231.5512,Central American
+92747,Central American,Costa Rican,Latin American,0.0000,1879.1600,0.0000,218.0000,Central American
+92748,Central American,Costa Rican,Latin American,32.4558,123.6882,1.3358,0.2969,Central American
+92749,Central American,Costa Rican,Latin American,220.7732,3938.0914,607.6163,59.1626,Central American
+92750,Central American,Costa Rican,Latin American,438.5190,2312.9890,64.9900,35.7474,Central American
+92751,Central American,Costa Rican,Latin American,39.2255,180.7550,7.7814,1.4926,Central American
+92752,Central American,Costa Rican,Latin American,0.0000,156.1914,5.6100,0.1417,Central American
+92753,Central American,Costa Rican,Latin American,22.4743,434.6785,5.1333,38.5986,Central American
+92754,Central American,Costa Rican,Latin American,393.7203,2258.9205,131.6184,24.6002,Central American
+92755,Central American,Costa Rican,Latin American,609.5395,3343.1594,140.5335,39.4394,Central American
+92756,Central American,Costa Rican,Latin American,13.7844,52.7807,0.6500,0.0751,Central American
+92757,Central American,Costa Rican,Latin American,16.9317,684.2079,108.2733,21.7107,Central American
+92758,Central American,Costa Rican,Latin American,64.6860,752.2500,7.9485,57.9585,Central American
+92760,Central American,Costa Rican,Latin American,689.2748,3476.0480,123.6779,21.9364,Central American
+92761,Central American,Costa Rican,Latin American,276.5746,3373.7788,454.7502,46.8967,Central American
+92763,Central American,Costa Rican,Latin American,773.4164,6598.0280,301.7218,255.3642,Central American
+92764,Central American,Costa Rican,Latin American,30.8244,627.7883,43.0359,38.0266,Central American
+92765,Central American,Costa Rican,Latin American,4.8805,371.3338,31.9352,23.8674,Central American
+92767,Central American,Costa Rican,Latin American,325.6320,2627.2943,140.0683,89.7592,Central American
+92768,Central American,Costa Rican,Latin American,465.1794,2623.2570,50.4372,61.8048,Central American
+92769,Central American,Costa Rican,Latin American,54.7709,246.0161,11.4522,2.0333,Central American
+92770,Central American,Costa Rican,Latin American,423.3475,4042.6096,467.6014,48.0948,Central American
+92771,Central American,Costa Rican,Latin American,490.5072,2925.6460,72.2042,81.8457,Central American
+92772,Central American,Costa Rican,Latin American,433.4615,5201.5692,421.3535,185.6994,Central American
+92773,Central American,Costa Rican,Latin American,31.2662,599.7400,6.4312,53.9316,Central American
+92774,Central American,Costa Rican,Latin American,9.7617,2314.2461,93.6720,212.7656,Central American
+92775,Central American,Costa Rican,Latin American,101.8976,2761.2480,56.4013,256.4253,Central American
+92776,Central American,Costa Rican,Latin American,184.7948,1815.7316,113.2942,70.4143,Central American
+92777,Central American,Honduran,Latin American,39.6280,187.2924,3.6170,1.5610,Central American
+92778,Central American,Honduran,Latin American,3.2880,408.0000,3.4080,43.2960,Central American
+92779,Central American,Honduran,Latin American,0.6384,960.2545,152.7698,34.8821,Central American
+92780,Central American,Honduran,Latin American,269.0821,5303.7513,135.0931,416.9918,Central American
+92781,Central American,Honduran,Latin American,39.3010,2099.1514,160.1481,141.3774,Central American
+92782,Central American,Honduran,Latin American,430.2778,4032.8393,207.2679,173.3314,Central American
+92783,Central American,Honduran,Latin American,315.2474,1811.3417,2.7758,53.7374,Central American
+92784,Central American,Honduran,Latin American,179.7493,1954.1413,11.3527,138.1346,Central American
+92785,Central American,Honduran,Latin American,7.7625,101.1697,1.4397,8.4710,Central American
+92786,Central American,Honduran,Latin American,161.5633,1264.4133,20.7940,80.2579,Central American
+92787,Central American,Honduran,Latin American,2.9283,835.0075,99.8383,47.0950,Central American
+92788,Central American,Honduran,Latin American,73.1919,1564.0170,101.6279,109.6360,Central American
+92789,Central American,Honduran,Latin American,555.2451,4889.0144,198.7659,225.9466,Central American
+92790,Central American,Honduran,Latin American,1.3413,3154.5484,302.9938,207.6672,Central American
+92791,Central American,Honduran,Latin American,,,,,Central American
+92792,Central American,Honduran,Latin American,82.0709,319.8300,3.9863,1.2625,Central American
+92793,Central American,Honduran,Latin American,17.2529,3423.4564,240.9906,257.6095,Central American
+92794,Central American,Honduran,Latin American,19.3365,392.0200,71.7653,2.6816,Central American
+92795,Central American,Honduran,Latin American,79.3447,536.0817,9.1400,22.6235,Central American
+92796,Central American,Honduran,Latin American,5.4895,605.5598,36.4107,48.9251,Central American
+92797,Central American,Honduran,Latin American,92.9701,459.4064,7.8168,11.4054,Central American
+92798,Central American,Honduran,Latin American,6.9540,71.3600,10.0140,0.5000,Central American
+92799,Central American,Honduran,Latin American,296.4430,3123.7523,60.1194,201.4766,Central American
+92800,Central American,Honduran,Latin American,67.0913,594.3052,31.2178,22.6930,Central American
+92801,Central American,Honduran,Latin American,291.2811,4542.9730,72.4605,359.1575,Central American
+92802,Central American,Honduran,Latin American,364.1525,2347.1182,201.2549,27.1074,Central American
+92803,Central American,Honduran,Latin American,4.4570,404172.4899,39641.5821,25984.8817,Central American
+92804,Central American,Honduran,Latin American,22.2769,344.8150,16.2528,22.5003,Central American
+92805,Central American,Honduran,Latin American,295.6594,1546.6589,36.7072,38.5898,Central American
+92806,Central American,Honduran,Latin American,76.5172,871.8547,115.1231,14.8286,Central American
+92807,Central American,Honduran,Latin American,114.1564,1652.9987,136.0431,71.1294,Central American
+92808,Central American,Honduran,Latin American,36.7523,613.7083,95.5040,6.6431,Central American
+92809,Central American,Honduran,Latin American,105.7613,716.5960,18.1135,29.5587,Central American
+92810,Central American,Honduran,Latin American,14.0375,991.7678,60.3294,78.1562,Central American
+92811,Central American,Honduran,Latin American,23.5332,1003.4400,70.1516,70.6656,Central American
+92812,Central American,Honduran,Latin American,170.5550,1096.1082,38.9802,31.6234,Central American
+92813,Central American,Honduran,Latin American,3134.4524,12792.6758,510.8650,56.7049,Central American
+92814,Central American,Honduran,Latin American,7.7845,553.7375,4.6830,58.1766,Central American
+92815,Central American,Honduran,Latin American,26.2749,982.2153,133.0235,37.5015,Central American
+92816,Central American,Honduran,Latin American,2.5767,21.4390,0.3934,0.0475,Central American
+92817,Central American,Honduran,Latin American,47.5774,1874.3494,136.9109,130.4587,Central American
+92818,Central American,Honduran,Latin American,34.0606,1429.9187,5.3524,141.3476,Central American
+92819,Central American,Honduran,Latin American,97.3898,941.4150,9.5892,63.7920,Central American
+92820,Central American,Honduran,Latin American,206.9375,1520.6838,138.8792,15.3044,Central American
+92821,Central American,Honduran,Latin American,33.1964,161.8705,5.1538,5.2152,Central American
+92822,Central American,Honduran,Latin American,135.6637,537.2500,6.7438,2.1927,Central American
+92823,Central American,Honduran,Latin American,66.8673,2352.3202,227.9843,132.1161,Central American
+92824,Central American,Honduran,Latin American,9.9032,669.3760,5.5979,68.8302,Central American
+92825,Central American,Honduran,Latin American,66.2638,2967.6235,230.8827,194.4826,Central American
+92826,Central American,Honduran,Latin American,260.2211,1621.8130,44.2835,44.4489,Central American
+92827,Central American,Honduran,Latin American,112.9453,1023.5633,74.4669,34.3049,Central American
+92828,Central American,Honduran,Latin American,4.6663,18.7107,0.0000,0.0000,Central American
+92829,Central American,Honduran,Latin American,161.0872,1185.7800,43.3404,41.5244,Central American
+92830,Central American,Honduran,Latin American,39.8935,516.0828,54.5460,16.4793,Central American
+92831,Central American,Honduran,Latin American,2.2113,28.4805,4.3563,0.1487,Central American
+92832,Central American,Honduran,Latin American,128.0010,1355.7672,189.1711,19.2259,Central American
+92833,Central American,Honduran,Latin American,64.9030,359.0890,8.9122,8.3501,Central American
+92834,Central American,Honduran,Latin American,135.7166,1544.6187,197.6721,31.7974,Central American
+92835,Central American,Honduran,Latin American,56.6417,327.8219,22.9427,3.1332,Central American
+92836,Central American,Honduran,Latin American,2.4487,134.3927,0.6589,12.3115,Central American
+92837,Central American,Honduran,Latin American,263.7908,1668.6495,64.4752,61.5952,Central American
+92838,Central American,Honduran,Latin American,20.6464,94.7200,3.0848,0.4864,Central American
+92839,Central American,Honduran,Latin American,317.4818,1911.9400,34.8277,65.5680,Central American
+92840,Central American,Honduran,Latin American,49.3838,1235.3919,97.6059,72.7352,Central American
+92841,Central American,Honduran,Latin American,343.7352,1874.9960,39.2279,41.8638,Central American
+92842,Central American,Honduran,Latin American,755.1416,6368.1850,464.4176,184.1202,Central American
+92843,Central American,Honduran,Latin American,676.6959,4142.2787,205.0427,57.7678,Central American
+92844,Central American,Honduran,Latin American,57.6254,2021.8649,229.2105,91.5528,Central American
+92845,Central American,Honduran,Latin American,225.7952,966.2680,6.6743,4.8396,Central American
+92846,Central American,Honduran,Latin American,120.9377,2318.8649,142.7059,145.4651,Central American
+92847,Central American,Honduran,Latin American,44.7542,775.4811,122.7978,17.4009,Central American
+92848,Central American,Honduran,Latin American,239.6364,2176.3759,117.5203,81.6125,Central American
+92849,Central American,Honduran,Latin American,165.4275,886.1350,6.8378,23.5136,Central American
+92850,Central American,Honduran,Latin American,52.1180,643.4234,5.2427,47.0406,Central American
+92851,Central American,Honduran,Latin American,346.2034,3897.7800,193.9349,206.0101,Central American
+92852,Central American,Honduran,Latin American,305.0276,1931.2788,32.1310,67.3271,Central American
+92853,Central American,Honduran,Latin American,138.5590,885.5000,16.1392,27.6796,Central American
+92854,Central American,Honduran,Latin American,64.8004,1645.4732,140.1698,88.9952,Central American
+92855,Central American,Honduran,Latin American,299.1466,1343.8300,7.8894,15.3603,Central American
+92856,Central American,Honduran,Latin American,98.4012,1891.1150,27.9229,162.8244,Central American
+92857,Central American,Honduran,Latin American,46.2712,1191.0173,113.8400,59.6252,Central American
+92858,Central American,Honduran,Latin American,193.5980,793.3491,8.4707,0.8260,Central American
+92859,Central American,Honduran,Latin American,612.5288,3765.9630,67.9778,120.0752,Central American
+92860,Central American,Honduran,Latin American,231.1830,1941.2940,111.5607,81.5970,Central American
+92861,Central American,Honduran,Latin American,185.1062,961.5082,31.4076,12.6457,Central American
+92862,Central American,Honduran,Latin American,398.5737,2587.6961,111.2837,59.7000,Central American
+92863,Central American,Honduran,Latin American,294.7619,1389.3140,21.0739,22.9693,Central American
+92864,Central American,Honduran,Latin American,7.3133,207.5313,40.0520,1.1486,Central American
+92865,Central American,Honduran,Latin American,93.0688,397.0830,8.5841,5.6493,Central American
+92866,Central American,Honduran,Latin American,47.4040,1134.0000,28.6888,92.1312,Central American
+92867,Central American,Honduran,Latin American,194.8038,2308.1237,37.6309,168.8069,Central American
+92868,Central American,Honduran,Latin American,269.1284,1833.6324,50.9869,62.1670,Central American
+92869,Central American,Honduran,Latin American,36.9405,909.7391,133.3966,26.7221,Central American
+92870,Central American,Honduran,Latin American,27.5440,188.0000,0.1480,8.5613,Central American
+92871,Central American,Honduran,Latin American,23.0927,1489.3715,82.1364,117.4178,Central American
+92872,Central American,Honduran,Latin American,587.4378,2798.2183,50.9568,21.2406,Central American
+92873,Central American,Honduran,Latin American,15.4646,63.7864,0.3827,0.1701,Central American
+92874,Central American,Honduran,Latin American,211.8468,2335.1022,135.3013,106.6685,Central American
+92875,Central American,Honduran,Latin American,79.0317,985.5063,124.8284,32.8945,Central American
+92876,Central American,Honduran,Latin American,228.4152,2681.1238,179.6038,119.6979,Central American
+92877,Central American,Honduran,Latin American,586.2369,3917.6516,149.2868,115.3709,Central American
+92878,Central American,Honduran,Latin American,307.4850,3031.1596,223.0197,96.4832,Central American
+92879,Central American,Honduran,Latin American,65.8754,378.6482,19.6490,5.5495,Central American
+92880,Central American,Honduran,Latin American,2.5008,535.1192,69.6335,25.1289,Central American
+92881,Central American,Honduran,Latin American,151.6804,1199.6849,33.8659,56.4851,Central American
+92882,Central American,Honduran,Latin American,44.6655,1062.5451,95.9663,55.1640,Central American
+92883,Central American,Honduran,Latin American,123.5298,1269.0020,39.6965,73.0941,Central American
+92884,Central American,Honduran,Latin American,200.6493,2038.5060,67.1821,111.8593,Central American
+92885,Central American,Honduran,Latin American,546.5805,5006.6360,168.7501,255.3675,Central American
+92886,Central American,Honduran,Latin American,706.7046,4867.6630,202.7583,141.8714,Central American
+92887,Central American,Honduran,Latin American,2.1045,6.7100,0.1067,0.0732,Central American
+92889,Central American,Honduran,Latin American,14.3958,250.8333,8.8860,19.3091,Central American
+92890,Central American,Honduran,Latin American,25.5428,2326.6571,47.2637,228.3604,Central American
+92891,Central American,Honduran,Latin American,122.0234,2235.2824,223.5186,96.4040,Central American
+92892,Central American,Honduran,Latin American,15.7140,1002.6148,171.9378,28.1074,Central American
+92893,Central American,Honduran,Latin American,42.1235,306.1101,14.8161,10.5431,Central American
+92894,Central American,Honduran,Latin American,299.1791,1614.9310,30.7465,31.9177,Central American
+92895,Central American,Honduran,Latin American,403.1476,5557.1600,75.5320,455.4164,Central American
+92896,Central American,Honduran,Latin American,0.0000,6.3042,1.4025,0.0354,Central American
+92897,Central American,Honduran,Latin American,64.7820,1025.6516,48.1801,65.7923,Central American
+92898,Central American,Honduran,Latin American,8.5207,308.8900,1.7999,30.2860,Central American
+92899,Central American,Honduran,Latin American,189.8064,2366.3400,14.8835,184.1603,Central American
+92900,Central American,Honduran,Latin American,144.7012,1071.1270,46.3447,35.0352,Central American
+92901,Central American,Honduran,Latin American,5.7521,388.9604,44.0347,20.5059,Central American
+92902,Central American,Honduran,Latin American,83.5204,2141.5026,242.7139,96.9997,Central American
+92903,Central American,Honduran,Latin American,33.0506,646.8490,7.7967,56.6143,Central American
+92904,Central American,Honduran,Latin American,93.1736,1989.6450,145.1185,115.6829,Central American
+92905,Central American,Honduran,Latin American,69.4405,559.4477,24.9562,21.4857,Central American
+92906,Central American,Honduran,Latin American,,,,,Central American
+92907,Central American,Honduran,Latin American,14.7415,900.3016,32.5846,79.1217,Central American
+92908,Central American,Honduran,Latin American,71.6233,641.2399,31.4770,29.7407,Central American
+92909,Central American,Honduran,Latin American,6.3229,33.7311,1.8700,0.0472,Central American
+92910,Central American,Honduran,Latin American,25.7589,184.1000,10.0764,5.0980,Central American
+92911,Central American,Honduran,Latin American,2.5979,31.7213,4.7991,0.2114,Central American
+92912,Central American,Honduran,Latin American,358.8357,2366.3940,69.2775,105.8248,Central American
+92913,Central American,Honduran,Latin American,7.8570,418.5200,5.3430,42.4000,Central American
+92914,Central American,Honduran,Latin American,18.4611,1239.6593,7.2295,127.0568,Central American
+92915,Central American,Honduran,Latin American,118.5419,1639.8391,92.8291,95.2764,Central American
+92916,Central American,Honduran,Latin American,44.2525,1230.7253,141.4345,53.9727,Central American
+92917,Central American,Honduran,Latin American,7.2525,223.5000,4.0455,21.5040,Central American
+92918,Central American,Honduran,Latin American,640.8128,4683.5800,59.3582,210.9356,Central American
+92919,Central American,Honduran,Latin American,1746.4115,8217.8881,406.7042,98.9964,Central American
+92920,Central American,Honduran,Latin American,11.8288,47.9860,0.7007,0.1925,Central American
+92921,Central American,Honduran,Latin American,101.9120,1844.0798,221.4350,58.4691,Central American
+92922,Central American,Honduran,Latin American,345.6399,2635.6800,20.5869,141.9220,Central American
+92923,Central American,Honduran,Latin American,281.7513,1240.5496,14.8661,6.4109,Central American
+92924,Central American,Honduran,Latin American,288.0977,3794.2335,295.2385,162.8820,Central American
+92925,Central American,Honduran,Latin American,22.3360,232.3892,27.4010,3.6163,Central American
+92926,Central American,Honduran,Latin American,596.0402,3236.9680,43.6082,78.7917,Central American
+92927,Central American,Honduran,Latin American,86.5118,821.9298,20.7350,52.7206,Central American
+92928,Central American,Honduran,Latin American,85.5323,1525.6662,119.9825,82.8894,Central American
+92929,Central American,Honduran,Latin American,198.3399,1868.3430,123.4141,62.0117,Central American
+92930,Central American,Honduran,Latin American,2.2353,451.3798,45.3479,28.2567,Central American
+92931,Central American,Honduran,Latin American,148.1726,1083.3826,18.2605,47.7989,Central American
+92932,Central American,Honduran,Latin American,37.6539,1448.9515,155.8998,72.4168,Central American
+92933,Central American,Honduran,Latin American,186.3528,1332.7130,157.2320,31.6514,Central American
+92934,Central American,Honduran,Latin American,205.9888,2038.1760,58.2110,116.1505,Central American
+92935,Central American,Honduran,Latin American,263.2250,1309.7940,28.9250,13.2316,Central American
+92936,Central American,Honduran,Latin American,61.6595,1804.4306,214.4757,76.5933,Central American
+92937,Central American,Honduran,Latin American,16.0301,826.3070,19.2245,75.5203,Central American
+92938,Central American,Honduran,Latin American,248.3987,2521.9102,46.7749,158.4365,Central American
+92939,Central American,Honduran,Latin American,86.0237,3692.2837,155.8104,299.2842,Central American
+92940,Central American,Honduran,Latin American,50.8422,3017.2316,278.7833,186.9870,Central American
+92941,Central American,Honduran,Latin American,79.6787,2663.9386,371.2638,89.5488,Central American
+92942,Central American,Honduran,Latin American,123.3888,781.7187,32.8780,28.1950,Central American
+92943,Central American,Honduran,Latin American,182.7308,833.0966,16.1144,8.4461,Central American
+92944,Central American,Honduran,Latin American,76.3680,763.6800,14.1040,44.7200,Central American
+92945,Central American,Honduran,Latin American,12.6714,1079.2087,162.8718,42.1536,Central American
+92946,Central American,Honduran,Latin American,107.9999,1972.7861,247.8942,61.9472,Central American
+92947,Central American,Honduran,Latin American,353.2464,2472.1985,27.7816,105.8582,Central American
+92948,Central American,Honduran,Latin American,262.0120,1248.7900,19.4890,11.6392,Central American
+92949,Central American,Honduran,Latin American,52.5697,375.3570,9.2389,15.2463,Central American
+92950,Central American,Honduran,Latin American,364.6818,2025.5052,43.9824,49.9089,Central American
+92951,Central American,Honduran,Latin American,68.7296,1200.8027,195.1214,14.5160,Central American
+92952,Central American,Honduran,Latin American,210.0504,1905.1127,111.6243,74.2034,Central American
+92953,Central American,Honduran,Latin American,88.8845,2804.0650,46.5956,264.8574,Central American
+92954,Central American,Honduran,Latin American,143.3471,1893.7061,152.5750,80.0311,Central American
+92955,Central American,Honduran,Latin American,161.0619,2813.5326,6.4233,241.5667,Central American
+92956,Central American,Honduran,Latin American,0.0000,25.2167,5.6100,0.1417,Central American
+92957,Central American,Honduran,Latin American,263.1403,2352.1433,21.2734,140.8065,Central American
+92958,Central American,Honduran,Latin American,120.1228,653.8100,13.9868,12.7378,Central American
+92959,Central American,Honduran,Latin American,281.6392,3031.9700,5.9451,219.1700,Central American
+92960,Central American,Honduran,Latin American,329.2274,1584.3500,21.9001,21.6191,Central American
+92961,Central American,Honduran,Latin American,346.6218,2216.6131,26.4739,83.1005,Central American
+92962,Central American,Honduran,Latin American,34.6211,249.6970,14.5119,6.4772,Central American
+92963,Central American,Honduran,Latin American,27.2635,1720.8561,140.9439,114.6993,Central American
+92964,Central American,Honduran,Latin American,351.0800,2602.2852,73.4613,102.3390,Central American
+92965,Central American,Honduran,Latin American,306.0208,2104.0532,47.3001,78.1705,Central American
+92966,Central American,Honduran,Latin American,124.2858,612.4700,20.8822,9.3495,Central American
+92967,Central American,Honduran,Latin American,7.6865,503.0940,1.4462,55.0584,Central American
+92968,Central American,Honduran,Latin American,32.3088,687.8400,21.5916,57.6228,Central American
+92969,Central American,Honduran,Latin American,19.3620,409.2000,23.7420,28.8000,Central American
+92970,Central American,Honduran,Latin American,354.1230,4778.1221,112.2112,330.2383,Central American
+92971,Central American,Honduran,Latin American,0.0000,0.0000,0.0000,0.0000,Central American
+92972,Central American,Honduran,Latin American,27.8619,118.7733,1.3328,0.2085,Central American
+92973,Central American,Honduran,Latin American,66.1277,854.2886,82.1098,29.2246,Central American
+92974,Central American,Honduran,Latin American,28.4462,871.1035,59.4127,57.5602,Central American
+92975,Central American,Honduran,Latin American,29.8656,5593.7823,204.3803,510.5015,Central American
+92976,Central American,Honduran,Latin American,33.2443,4192.4882,360.8274,283.5540,Central American
+92977,Central American,Honduran,Latin American,324.0311,1420.1123,37.7889,5.1826,Central American
+92978,Central American,Honduran,Latin American,173.6102,662.2848,5.9750,2.9962,Central American
+92979,Central American,Honduran,Latin American,127.5494,2649.3710,88.2320,200.7026,Central American
+92980,Central American,Honduran,Latin American,75.6304,1736.8872,145.7161,90.3649,Central American
+92981,Central American,Honduran,Latin American,4.0511,647.8840,4.7242,69.6057,Central American
+92982,Central American,Honduran,Latin American,748.8359,8343.1797,358.9996,444.4298,Central American
+92983,Central American,Honduran,Latin American,155.3718,802.2750,30.7707,12.4635,Central American
+92984,Central American,Honduran,Latin American,1.4950,123.8057,0.3162,13.6300,Central American
+92985,Central American,Honduran,Latin American,44.3871,13279.1871,2.1806,0.7395,Central American
+92986,Central American,Honduran,Latin American,11.0743,1394.3909,133.5380,86.8094,Central American
+92987,Central American,Honduran,Latin American,1.4294,69.5260,1.6716,6.4630,Central American
+92988,Central American,Honduran,Latin American,24.6788,1976.8570,153.4948,138.5446,Central American
+92989,Central American,Honduran,Latin American,235.3385,1848.0200,20.6926,97.0334,Central American
+92990,Central American,Honduran,Latin American,10.3520,721.2320,51.1200,51.7200,Central American
+92991,Central American,Honduran,Latin American,173.7880,2770.7704,311.7170,101.6379,Central American
+92992,Central American,Honduran,Latin American,186.5461,2962.5151,52.0393,237.1586,Central American
+92993,Central American,Honduran,Latin American,43.4217,171.8960,0.1067,0.0732,Central American
+92994,Central American,Honduran,Latin American,278.9990,2953.0200,24.7685,198.6267,Central American
+92995,Central American,Honduran,Latin American,104.2877,434.2360,1.5109,1.6420,Central American
+92996,Central American,Honduran,Latin American,37.8544,1824.6990,131.5370,127.5603,Central American
+92997,Central American,Honduran,Latin American,304.3702,1308.3100,5.3259,8.5590,Central American
+92998,Central American,Honduran,Latin American,91.1745,1740.2464,231.3932,55.7598,Central American
+92999,Central American,Honduran,Latin American,271.4618,2041.3200,51.2615,96.6494,Central American
+93000,Central American,Honduran,Latin American,50.8330,793.6899,102.0349,19.0006,Central American
+93001,Central American,Honduran,Latin American,289.2937,3532.1699,257.6272,148.8003,Central American
+93002,Central American,Honduran,Latin American,32.8134,1096.2767,128.4515,48.6619,Central American
+93003,Central American,Honduran,Latin American,83.0969,1284.1485,100.6990,61.8959,Central American
+93004,Central American,Honduran,Latin American,39.1506,808.7098,7.4643,73.2592,Central American
+93005,Central American,Honduran,Latin American,7079.8080,90182.3500,4699.1380,4807.9470,Central American
+93006,Central American,Honduran,Latin American,20.2640,278.3290,16.3544,14.0506,Central American
+93007,Central American,Honduran,Latin American,3.0844,983.7333,21.5977,97.6225,Central American
+93008,Central American,Honduran,Latin American,9.3705,80.1970,1.2285,4.9549,Central American
+93009,Central American,Honduran,Latin American,328.0975,2696.8573,19.5611,152.0396,Central American
+93010,Central American,Honduran,Latin American,14.5858,113.1001,8.5300,2.1829,Central American
+93011,Central American,Honduran,Latin American,19.7610,873.9940,134.3125,28.4311,Central American
+93012,Central American,Honduran,Latin American,678.2086,3599.2993,83.9704,58.5422,Central American
+93013,Central American,Honduran,Latin American,80.3675,1248.0230,98.6599,59.9890,Central American
+93014,Central American,Honduran,Latin American,127.8796,580.7180,9.4010,2.2436,Central American
+93015,Central American,Honduran,Latin American,31.8154,1757.8230,78.6412,151.7041,Central American
+93016,Central American,Honduran,Latin American,20.4187,2943.8913,186.3799,230.5523,Central American
+93017,Central American,Honduran,Latin American,12.2108,1435.9671,55.7832,128.3804,Central American
+93018,Central American,Honduran,Latin American,628.7801,2509.3740,23.6813,13.8010,Central American
+93019,Central American,Honduran,Latin American,188.9010,4328.6870,167.7055,321.1462,Central American
+93020,Central American,Honduran,Latin American,889.6930,3521.7150,0.4760,0.4089,Central American
+93021,Central American,Honduran,Latin American,658.4022,5941.7340,150.3524,335.8157,Central American
+93022,Central American,Honduran,Latin American,61.4035,420.1878,43.9208,3.7047,Central American
+93023,Central American,Honduran,Latin American,98.6429,4103.4850,100.9332,387.1683,Central American
+93024,Central American,Honduran,Latin American,7.3812,115.2939,3.9071,7.9390,Central American
+93025,Central American,Honduran,Latin American,928.8948,10063.8694,51.6852,729.7960,Central American
+93026,Central American,Honduran,Latin American,371.9083,2213.8316,103.2456,40.0781,Central American
+93027,Central American,Honduran,Latin American,360.8569,2576.6882,102.6868,85.5426,Central American
+93028,Central American,Honduran,Latin American,230.8032,2407.2206,122.4014,107.7196,Central American
+93029,Central American,Honduran,Latin American,12.9841,1972.3412,78.9444,181.0251,Central American
+93030,Central American,Honduran,Latin American,176.8626,686.2858,1.3296,0.8916,Central American
+93031,Central American,Honduran,Latin American,542.2833,3247.2960,42.7465,115.2025,Central American
+93032,Central American,Honduran,Latin American,292.6746,1740.9803,93.5153,27.8551,Central American
+93033,Central American,Honduran,Latin American,2.5017,11.3435,0.4755,0.1851,Central American
+93034,Central American,Honduran,Latin American,89.8697,2213.0367,159.4776,145.9673,Central American
+93035,Central American,Honduran,Latin American,727.5950,7472.1134,116.9820,472.7825,Central American
+93036,Central American,Honduran,Latin American,347.3046,1924.3125,72.7158,31.7301,Central American
+93037,Central American,Honduran,Latin American,60.9200,1416.0000,13.3200,133.9600,Central American
+93038,Central American,Honduran,Latin American,372.5922,2470.1936,69.5896,88.6783,Central American
+93039,Central American,Honduran,Latin American,975.6318,6626.4172,117.4084,276.0069,Central American
+93040,Central American,Honduran,Latin American,329.4962,2303.3600,130.2242,45.2122,Central American
+93041,Central American,Honduran,Latin American,51.3943,763.0255,9.4524,60.5225,Central American
+93042,Central American,Honduran,Latin American,106.2936,1481.9928,107.4482,71.5694,Central American
+93043,Central American,Honduran,Latin American,2.8349,19.5611,0.4366,0.6549,Central American
+93044,Central American,Honduran,Latin American,303.6197,3065.0582,38.9354,188.6196,Central American
+93045,Central American,Honduran,Latin American,210.5920,846.4016,9.9540,5.2325,Central American
+93046,Central American,Honduran,Latin American,674.1221,5413.9770,69.0004,288.4520,Central American
+93047,Central American,Honduran,Latin American,134.2348,4448.1353,94.5800,391.4816,Central American
+93048,Central American,Honduran,Latin American,195.7058,1355.8085,26.9819,61.7804,Central American
+93049,Central American,Honduran,Latin American,314.6010,2806.9820,24.1708,160.0812,Central American
+93050,Central American,Honduran,Latin American,111.5954,769.9184,15.7210,31.9862,Central American
+93051,Central American,Honduran,Latin American,61.1091,770.1878,47.9022,39.5653,Central American
+93052,Central American,Honduran,Latin American,71528.7959,304662.4290,2442.0337,1331.5983,Central American
+93053,Central American,Honduran,Latin American,28.0419,1143.5078,201.8830,23.4860,Central American
+93054,Central American,Honduran,Latin American,157.5167,736.2550,14.8952,8.0022,Central American
+93055,Central American,Honduran,Latin American,73.0770,2175.1486,191.6857,123.1552,Central American
+93056,Central American,Honduran,Latin American,0.3584,1748.7637,284.3742,59.1213,Central American
+93057,Central American,Honduran,Latin American,98.4135,4695.1733,92.3484,454.2494,Central American
+93058,Central American,Honduran,Latin American,21.1556,653.1300,46.2442,44.5358,Central American
+93059,Central American,Honduran,Latin American,10.3210,780.6806,119.3625,25.6102,Central American
+93060,Central American,Honduran,Latin American,149.3173,3786.3148,287.3937,237.1605,Central American
+93061,Central American,Honduran,Latin American,79.0191,551.3740,27.4731,15.6007,Central American
+93062,Central American,Honduran,Latin American,18.5939,1651.4403,101.4222,127.7338,Central American
+93063,Central American,Honduran,Latin American,11.5014,1565.5912,77.0738,135.5015,Central American
+93064,Central American,Honduran,Latin American,68.3917,1026.8210,104.8615,41.7586,Central American
+93065,Central American,Honduran,Latin American,13.2720,66.1865,0.6819,0.0475,Central American
+93066,Central American,Honduran,Latin American,52.5790,1869.4656,80.7234,151.9564,Central American
+93067,Central American,Honduran,Latin American,333.9550,1738.4058,29.6322,33.5669,Central American
+93068,Central American,Honduran,Latin American,0.0000,6.3042,1.4025,0.0354,Central American
+93069,Central American,Honduran,Latin American,21.2266,524.3693,39.7495,32.6864,Central American
+93070,Central American,Honduran,Latin American,57.2474,3063.9150,382.9686,137.1027,Central American
+93071,Central American,Honduran,Latin American,185.7301,1570.8140,18.5909,87.2361,Central American
+93072,Central American,Honduran,Latin American,394.1208,2705.3427,23.4065,121.3153,Central American
+93073,Central American,Honduran,Latin American,150.0566,2143.5005,32.6927,165.2884,Central American
+93074,Central American,Honduran,Latin American,13.5494,507.8010,5.5608,48.5742,Central American
+93075,Central American,Honduran,Latin American,,,,,Central American
+93076,Central American,Honduran,Latin American,19.6425,427.5000,13.3575,36.0000,Central American
+93077,Central American,Honduran,Latin American,0.0000,517.1040,101.5157,9.2081,Central American
+93078,Central American,Honduran,Latin American,39.9354,742.6966,115.6324,11.3147,Central American
+93079,Central American,Honduran,Latin American,16.5110,1050.2849,108.0716,58.7659,Central American
+93080,Central American,Honduran,Latin American,13.8756,1403.3672,108.6961,104.0552,Central American
+93081,Central American,Honduran,Latin American,34.6202,1042.8462,43.3759,87.4306,Central American
+93082,Central American,Honduran,Latin American,94.2579,1837.6370,48.1945,152.2915,Central American
+93083,Central American,Honduran,Latin American,76.4931,3479.8268,321.3138,204.3099,Central American
+93084,Central American,Honduran,Latin American,125.5517,984.8553,28.9421,48.8627,Central American
+93085,Central American,Honduran,Latin American,39.1684,1467.5175,17.1681,140.3021,Central American
+93086,Central American,Honduran,Latin American,176.8050,1658.5532,27.2450,100.1976,Central American
+93087,Central American,Honduran,Latin American,3644.2483,22985.6839,753.9849,783.1792,Central American
+93088,Central American,Honduran,Latin American,0.5893,648.2681,98.1016,25.5681,Central American
+93089,Central American,Honduran,Latin American,6.3016,664.4183,1.1626,72.1022,Central American
+93090,Central American,Honduran,Latin American,0.0681,0.3049,0.0142,0.0079,Central American
+93091,Central American,Honduran,Latin American,115.3173,1885.2707,162.1787,85.5608,Central American
+93092,Central American,Honduran,Latin American,2547.2509,78842.5311,1270.1014,7311.1165,Central American
+93093,Central American,Honduran,Latin American,6.8344,31.3775,1.0386,0.2197,Central American
+93094,Central American,Honduran,Latin American,31.3569,667.5350,3.2633,60.6682,Central American
+93095,Central American,Honduran,Latin American,79.2721,413.3250,23.5118,2.7883,Central American
+93096,Central American,Honduran,Latin American,906.3031,6387.9559,146.6743,252.9943,Central American
+93097,Central American,Honduran,Latin American,547.5953,3774.5654,49.3025,162.4618,Central American
+93098,Central American,Honduran,Latin American,47.4478,1559.0504,117.6045,107.8839,Central American
+93099,Central American,Honduran,Latin American,443.4466,2161.6234,24.8643,38.6545,Central American
+93100,Central American,Honduran,Latin American,15.4712,101.7642,7.2190,0.5845,Central American
+93101,Central American,Honduran,Latin American,249.3991,1716.1703,43.6918,63.3582,Central American
+93102,Central American,Honduran,Latin American,107.4881,571.0403,21.9779,5.6005,Central American
+93103,Central American,Honduran,Latin American,45.4724,2279.3379,133.2418,176.1707,Central American
+93104,Central American,Honduran,Latin American,191.4063,1137.7335,96.7362,5.3358,Central American
+93105,Central American,Honduran,Latin American,16.3033,990.2681,108.7876,54.3681,Central American
+93106,Central American,Honduran,Latin American,30.9309,1226.2879,101.0089,79.7958,Central American
+93107,Central American,Guatemalan,Latin American,268.1519,4495.9828,313.3302,232.4604,Central American
+93108,Central American,Guatemalan,Latin American,114.0905,1146.4713,123.1038,30.8437,Central American
+93109,Central American,Guatemalan,Latin American,213.8896,1454.9820,39.9524,57.9860,Central American
+93110,Central American,Guatemalan,Latin American,132.9567,1192.0512,52.3300,53.2086,Central American
+93111,Central American,Guatemalan,Latin American,26.2158,228.7825,2.5666,14.1484,Central American
+93112,Central American,Guatemalan,Latin American,71.4228,578.5428,11.9532,30.1464,Central American
+93113,Central American,Guatemalan,Latin American,7.5992,30.4737,0.9472,0.1424,Central American
+93114,Central American,Guatemalan,Latin American,29.9940,211.5740,3.2780,10.2984,Central American
+93115,Central American,Guatemalan,Latin American,6.8969,58.5109,7.0642,0.3888,Central American
+93116,Central American,Guatemalan,Latin American,296.8705,1606.7518,99.6261,6.5910,Central American
+93117,Central American,Guatemalan,Latin American,54.9788,2078.9400,18.3332,212.3288,Central American
+93118,Central American,Guatemalan,Latin American,64.9380,766.4632,118.6839,4.4504,Central American
+93119,Central American,Guatemalan,Latin American,420.3970,2581.1000,79.9948,69.6760,Central American
+93120,Central American,Guatemalan,Latin American,691.8702,3755.9140,64.9311,96.2896,Central American
+93121,Central American,Guatemalan,Latin American,503.1863,3874.5860,48.1785,189.4005,Central American
+93122,Central American,Guatemalan,Latin American,97.1289,17289.8914,373.2633,1715.5723,Central American
+93123,Central American,Guatemalan,Latin American,228.3324,873.5200,9.3080,2.6492,Central American
+93124,Central American,Guatemalan,Latin American,20.4707,136.9145,1.8567,4.9868,Central American
+93125,Central American,Guatemalan,Latin American,0.0000,0.0000,0.0000,0.0000,Central American
+93126,Central American,Guatemalan,Latin American,357.1572,2155.1810,43.2893,66.2058,Central American
+93127,Central American,Guatemalan,Latin American,342.9039,2825.9675,98.4300,143.2900,Central American
+93128,Central American,Guatemalan,Latin American,36.9810,634.4250,6.3904,54.6630,Central American
+93129,Central American,Guatemalan,Latin American,559.4360,3739.7075,89.4197,132.8077,Central American
+93130,Central American,Guatemalan,Latin American,80.5394,319.9086,0.1934,0.0774,Central American
+93131,Central American,Guatemalan,Latin American,28.4489,2934.6664,153.9387,246.6050,Central American
+93132,Central American,Guatemalan,Latin American,19.6102,85.9300,3.2571,0.6088,Central American
+93133,Central American,Guatemalan,Latin American,303.4085,1634.7518,100.3961,6.6610,Central American
+93134,Central American,Guatemalan,Latin American,44.1601,426.3475,4.6891,27.9015,Central American
+93135,Central American,Guatemalan,Latin American,33.6821,140.4599,3.3772,1.0876,Central American
+93136,Central American,Guatemalan,Latin American,12.5505,306.8711,7.8038,26.3999,Central American
+93137,Central American,Guatemalan,Latin American,1081.2745,9018.8831,360.8249,371.8459,Central American
+93138,Central American,Guatemalan,Latin American,340.7925,2314.3139,35.6121,91.4821,Central American
+93139,Central American,Guatemalan,Latin American,299.9580,3676.4324,258.5380,161.9361,Central American
+93140,Central American,Guatemalan,Latin American,238.4668,1437.4800,38.7684,36.6872,Central American
+93141,Central American,Guatemalan,Latin American,0.7849,53.5937,0.1330,5.7931,Central American
+93142,Central American,Guatemalan,Latin American,20.7840,89.4200,2.3420,0.4072,Central American
+93143,Central American,Guatemalan,Latin American,64.0918,261.2850,0.7210,0.7198,Central American
+93144,Central American,Guatemalan,Latin American,7.8371,510.8118,1.0178,54.1132,Central American
+93145,Central American,Guatemalan,Latin American,139.5406,1959.4738,38.8828,145.5778,Central American
+93146,Central American,Guatemalan,Latin American,139.9636,826.1600,16.6156,30.5952,Central American
+93147,Central American,Guatemalan,Latin American,81.2646,10137.1693,382.0809,920.8327,Central American
+93148,Central American,Guatemalan,Latin American,477.7711,2938.9782,65.1990,103.4571,Central American
+93149,Central American,Guatemalan,Latin American,198.4730,917.2142,18.8191,3.6776,Central American
+93150,Central American,Guatemalan,Latin American,140.6707,1233.3075,36.4321,68.0291,Central American
+93151,Central American,Guatemalan,Latin American,606.7527,3001.8550,55.0648,32.4433,Central American
+93152,Central American,Guatemalan,Latin American,6.5380,834.9333,180.2900,4.6033,Central American
+93153,Central American,Guatemalan,Latin American,195.3869,1051.8141,64.4746,4.2801,Central American
+93154,Central American,Guatemalan,Latin American,9.4003,287.5080,2.9987,29.1540,Central American
+93155,Central American,Guatemalan,Latin American,116.4918,2425.2630,132.1401,157.7199,Central American
+93156,Central American,Guatemalan,Latin American,320.9370,1765.4400,41.7140,31.8200,Central American
+93157,Central American,Guatemalan,Latin American,485.8906,2531.1792,110.1716,15.5294,Central American
+93158,Central American,Guatemalan,Latin American,0.9039,3.7684,0.2087,0.0451,Central American
+93159,Central American,Guatemalan,Latin American,8.2592,34.9560,1.0932,0.2764,Central American
+93160,Central American,Guatemalan,Latin American,42.6029,837.6322,7.7925,73.5645,Central American
